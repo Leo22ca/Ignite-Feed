@@ -12,13 +12,17 @@ export function Post(){
                     </div>
                 </div>
                 <time title='24 de Junho às 11:17h' dateTime='2022-05-11 11:17:30'>Publicado há 1h</time>
-                <div className={styles.content}>
-                    <p>linha 1</p>
-                    <p>linha 2</p> 
-                    <p>--<a href="#">jane.design/doctorcare</a></p>
-                    <p><a href="#">#novoprojeto #ignite #RocketSeat</a></p>
-                </div>
             </header>
+                <div className={styles.content}>
+                    <p>Fala galeraa 👋</p>
+                    <p>Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀</p> 
+                    <p><a href="#">jane.design/doctorcare</a></p>
+                    <p>
+                        <a href="#">#novoprojeto </a>
+                        <a href="#">#Ignite </a>
+                        <a href="#">#RocketSeat </a>
+                    </p>
+                </div>
         </article>
     );
 }

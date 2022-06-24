@@ -18,6 +18,10 @@ export function App() {
             author="Leonardo Hornig"
             content="Teste de conteúdo para post"
           />
+          <Post
+            author="Leonardo Hornig"
+            content="Teste de conteúdo para post"
+          />
         </main>
       </div>
     </div>
